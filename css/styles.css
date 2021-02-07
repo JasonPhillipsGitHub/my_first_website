@@ -1,0 +1,49 @@
+h1 {
+  font-family: sans-serif;
+  color: red;
+  border: 5px solid rgba(28,110,164,0.55);
+  background-color:white;opacity:0.8;
+}
+
+h4 {
+  font-family: sans-serif;
+  color: black;
+  border: 5px solid rgba(28,110,164,0.55);
+  background-color:white;opacity:0.8;
+}
+p {
+  color: white;
+  font-size: 20px;
+ text-align: center;
+}
+
+
+
+#welcome-message {
+  background-color:gray;
+  padding: 15px;
+}
+img {
+  display: block;
+  opacity: 0.8;
+  margin-left: auto;
+  margin-right: auto;
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+}
+
+/* selector {
+  rulename: value;
+} */
+
+body
+    {
+    width: 100%;
+    height: 100%;
+    background-image:url("https://dailysuperheroes.com/wp-content/uploads/2020/01/hulk-captain-america-sam-wilson.jpg");
+    background-size: cover;
+    background-attachment:fixed;
+    margin: 0;
+    padding: 0;
+    }
