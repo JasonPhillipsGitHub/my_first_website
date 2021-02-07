@@ -1,15 +1,15 @@
 $('.Space').on('click', function() {
-	$('#welcome-message').css({'background-image': 'url("https://i.pinimg.com/originals/b9/fc/97/b9fc9753e973c0d4078a01aaab663420.png")', 'background-repeat':'repeat', 'background-size' : 'cover'})
+	$('#welcome-message').css({'background-image': 'url("https://img.wattpad.com/1cf4d0a1271e70aa2991de265476de10c9ba7fb6/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f7147684c58574c654f4e685270773d3d2d3736363739323333332e313562373266646364336431653830343734363830313232323234312e676966?s=fit&w=720&h=720")', 'background-repeat':'repeat', 'background-size' : 'cover'})
 })
 
 
 $('.Reality').on('click', function() {
-	$('#welcome-message').css({'background-image': 'url(https://www.thenewsfetcher.com/wp-content/uploads/2020/03/rocket-raccoon-asguard.png)', 'background-repeat':'no-repeat', 'background-size':'cover'})
+	$('#welcome-message').css({'background-image': 'url(https://miro.medium.com/max/1080/1*vRPPHo8UA7Xa-9QP19r0IA.gif)', 'background-repeat':'no-repeat', 'background-size':'cover'})
 })
 
 
 $('.Power').on('click', function() {
-	$('#welcome-message').css({'background-image': 'url(https://acadweb.hvcc.edu/~m-schroeder3/webart/Infinity%20Stones/images/film%20stills/Power%20Stone/power_stone_orb_guardians_of_the_galaxy.jpg)', 'background-repeat':'no-repeat', 'background-size':'cover'})
+	$('#welcome-message').css({'background-image': 'url(https://media2.giphy.com/media/wv34jEfv17OmI/giphy.gif#4-grid5)', 'background-repeat':'no-repeat', 'background-size':'cover'})
 })
 
 
